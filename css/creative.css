@@ -80,8 +80,8 @@ aside {
 }
 
 .peque{
-  width: 70%;
-  height: 70%;
+  width: 60%;
+  height: 60%;
 }
 
 
@@ -452,3 +452,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
+#success_message { 
+  display: none;}
